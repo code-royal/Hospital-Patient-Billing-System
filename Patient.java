@@ -1,9 +1,7 @@
 
 /**
- * Write a description of class Patient here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ * @author PRAJWAL RAJBHANDARI
+ * @version 20th Jan 2026
  */
 public class Patient
 {
