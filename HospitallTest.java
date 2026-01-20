@@ -1,10 +1,8 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 /**
- * Write a description of class HospitallTest here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ * @author PRAJWAL RAJBHANDARI
+ * @version 20th Jan 2026
  */
 public class HospitallTest
 {
