@@ -38,6 +38,7 @@ public class HospitallTest
         }
         
         //looping for printing patient details and total hospital bill
+        System.out.println("____Billing Details____ ");
         for(Patient patient: patients)
         {
             System.out.println(patients);
